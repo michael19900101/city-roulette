@@ -34,3 +34,11 @@ yarn-error.log*
 .cache/
 .temp/
 tmp/
+
+# _bmad
+_bmad
+_bmad-output
+
+# AI files
+.claude
+.trae
